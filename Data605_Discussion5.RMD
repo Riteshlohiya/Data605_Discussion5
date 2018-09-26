@@ -1,0 +1,42 @@
+---
+title: "Data605_Discussion5"
+author: "Ritesh Lohiya"
+date: "September 25, 2018"
+output: html_document
+---
+
+#                             Discussion 5
+
+#           IS 605 FUNDAMENTALS OF COMPUTATIONAL MATHEMATICS
+
+I will be attempting the below:
+
+CHAPTER 1. DISCRETE PROBABILITY DISTRIBUTIONS
+
+Exercise 8
+
+A student must choose one of the subjects, art, geology, or psychology, as an elective. She is equally likely to choose art or psychology and twice as likely
+to choose geology. What are the respective probabilities that she chooses art, geology, and psychology?
+
+Answer: 
+
+She must chooese only one out of Art, Psychology or Geology, the Probability = 1.
+
+P(A) - Probability of choosing Art
+P(P) - Probability of choosing Psychology
+P(G) - Probability of choosing Geology
+
+P(A) + P(P) + P(G) = 1
+
+She is equally likely to choose art or psychology and twice as likely to choose geology. Since there is no overlap of probability
+
+x + x + 2x = 1
+
+x = 1/4 = P(A) = P(P)
+
+P(G) = 1/2
+
+
+
+
+
